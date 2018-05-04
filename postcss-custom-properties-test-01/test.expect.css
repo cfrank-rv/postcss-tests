@@ -1,0 +1,8 @@
+:root {
+    --clrPrimary: red;
+}
+
+.title {
+  color: red;
+  color: var(--clrPrimary);
+}
